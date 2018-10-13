@@ -13,8 +13,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Collections;
 
-import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
-
 @SuppressWarnings("unused")
 public class Methods {
 
